@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
