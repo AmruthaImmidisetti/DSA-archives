@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1448-maximum-69-number) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
