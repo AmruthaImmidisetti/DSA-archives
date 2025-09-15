@@ -121,4 +121,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
