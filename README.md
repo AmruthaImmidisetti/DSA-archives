@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2887-sort-vowels-in-a-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0907-koko-eating-bananas) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0018-4sum) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0053-maximum-subarray) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -163,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
