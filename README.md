@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0137-single-number-ii) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
