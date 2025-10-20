@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2887-sort-vowels-in-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0907-koko-eating-bananas) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0059-spiral-matrix-ii) |
 | [1642-water-bottles](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Divide and Conquer
 |  |
