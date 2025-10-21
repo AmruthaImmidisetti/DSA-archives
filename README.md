@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0342-power-of-four) |
 ## String
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
 ## Brainteaser
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
