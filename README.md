@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0148-sort-list) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2887-sort-vowels-in-a-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0148-sort-list) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
 ## Brainteaser
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
