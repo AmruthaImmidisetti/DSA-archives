@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0155-min-stack) |
 ## Number Theory
 |  |
 | ------- |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
