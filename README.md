@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0907-koko-eating-bananas) |
 ## Sorting
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
 ## Brainteaser
