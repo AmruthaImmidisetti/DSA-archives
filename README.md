@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0342-power-of-four) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
 ## Brainteaser
