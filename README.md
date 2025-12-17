@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0907-koko-eating-bananas) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0682-baseball-game) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1603-design-parking-system](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0178-rank-scores) |
 | [0197-rising-temperature](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0197-rising-temperature) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
