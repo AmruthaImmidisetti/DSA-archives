@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0342-power-of-four) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -234,10 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
 |  |
