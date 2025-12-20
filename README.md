@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0657-robot-return-to-origin) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0944-delete-columns-to-make-sorted) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0907-koko-eating-bananas) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0944-delete-columns-to-make-sorted) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
