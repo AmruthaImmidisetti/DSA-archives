@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2326-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1448-maximum-69-number) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3074-apple-redistribution-into-boxes) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3074-apple-redistribution-into-boxes) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
