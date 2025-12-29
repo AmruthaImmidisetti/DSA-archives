@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0342-power-of-four) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0907-koko-eating-bananas) |
 ## Sorting
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0222-count-complete-tree-nodes) |
 ## Prefix Sum
 |  |
 | ------- |
