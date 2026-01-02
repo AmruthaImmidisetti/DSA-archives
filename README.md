@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
