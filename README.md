@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0682-baseball-game) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
@@ -398,4 +401,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
