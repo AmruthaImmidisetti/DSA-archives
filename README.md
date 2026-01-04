@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
+| [1390-four-divisors](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1448-maximum-69-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1389-create-target-array-in-the-given-order) |
+| [1390-four-divisors](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1390-four-divisors) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
