@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0461-hamming-distance) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
