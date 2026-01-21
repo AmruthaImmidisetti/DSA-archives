@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
 | [0657-robot-return-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0657-robot-return-to-origin) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
