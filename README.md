@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2887-sort-vowels-in-a-string) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Monotonic Stack
 |  |
 | ------- |
