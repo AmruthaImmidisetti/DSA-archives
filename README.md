@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3637-trionic-array-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3637-trionic-array-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
 | [4003-longest-fibonacci-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4003-longest-fibonacci-subarray) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
