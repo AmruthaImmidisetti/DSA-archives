@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3379-transformed-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2326-spiral-matrix-iv) |
+| [3379-transformed-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3379-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
