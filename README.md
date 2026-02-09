@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1051-height-checker](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1200-minimum-absolute-difference) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1389-create-target-array-in-the-given-order) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -477,4 +479,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
