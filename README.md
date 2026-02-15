@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0222-count-complete-tree-nodes) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1389-create-target-array-in-the-given-order) |
