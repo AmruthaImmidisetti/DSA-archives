@@ -14,10 +14,8 @@ public:
                     break;
                 }
             }
-            // cout<<ind<<" ";
             if(f==0) return false;
         }
-        // for(int ele:ans) cout<<ele<<" ";
         return is_sorted(ans.begin(),ans.end()) && (s.size()==ans.size());
     }
 };
