@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
