@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0647-palindromic-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0209-minimum-size-subarray-sum) |
+| [0413-arithmetic-slices](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
