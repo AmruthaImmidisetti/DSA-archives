@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0074-search-a-2d-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2326-spiral-matrix-iv](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2326-spiral-matrix-iv) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
