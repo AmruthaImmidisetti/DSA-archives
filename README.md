@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2326-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2326-spiral-matrix-iv](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2326-spiral-matrix-iv) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2326-spiral-matrix-iv) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3379-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
