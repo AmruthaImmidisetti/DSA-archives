@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Prefix Sum
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Union Find
 |  |
