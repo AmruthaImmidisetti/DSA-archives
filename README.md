@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3379-transformed-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0930-binary-subarrays-with-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
