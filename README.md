@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
 | [3843-first-element-with-unique-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3843-first-element-with-unique-frequency) |
 | [4003-longest-fibonacci-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4003-longest-fibonacci-subarray) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3843-first-element-with-unique-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
