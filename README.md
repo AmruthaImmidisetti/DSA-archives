@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3830-find-closest-person) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3843-first-element-with-unique-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3843-first-element-with-unique-frequency) |
 | [4003-longest-fibonacci-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4003-longest-fibonacci-subarray) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3843-first-element-with-unique-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3843-first-element-with-unique-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
