@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0657-robot-return-to-origin) |
 | [0767-reorganize-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0944-delete-columns-to-make-sorted) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Trie
 |  |
