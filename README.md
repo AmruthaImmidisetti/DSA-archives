@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0074-search-a-2d-matrix) |
