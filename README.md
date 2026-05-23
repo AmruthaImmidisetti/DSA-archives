@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
