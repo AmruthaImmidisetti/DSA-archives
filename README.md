@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0347-top-k-frequent-elements) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0077-combinations) |
+| [0216-combination-sum-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1980-find-unique-binary-string) |
 ## String Matching
 |  |
