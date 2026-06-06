@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0657-robot-return-to-origin) |
 | [0767-reorganize-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0767-reorganize-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0413-arithmetic-slices) |
+| [0567-permutation-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
