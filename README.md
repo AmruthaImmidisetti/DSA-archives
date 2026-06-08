@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0347-top-k-frequent-elements) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0767-reorganize-string) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0713-subarray-product-less-than-k) |
@@ -745,4 +748,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
