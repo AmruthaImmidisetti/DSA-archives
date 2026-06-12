@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0118-pascals-triangle) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0142-linked-list-cycle-ii) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0304-range-sum-query-2d-immutable) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1582-special-positions-in-a-binary-matrix) |
