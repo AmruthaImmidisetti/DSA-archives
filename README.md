@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3713-longest-balanced-substring-i) |
