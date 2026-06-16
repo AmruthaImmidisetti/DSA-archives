@@ -17,22 +17,15 @@ vector<int>arr;
         if (!root)
             return 0;
         else {
-            int left = Depth(root->left) + 1;
-            int right = Depth(root->right) + 1;
-
-            // if (abs(left - right) > 1)
-            //     return false;
-            // else
-            arr.push_back(abs(left-right));
-            return max(left, right);
+            int left = Depth(root->left);
+            if(left == -1) return -1;
+            int right = Depth(root->right);
+            if(right == -1) return -1;
+            if(abs(left- right) > 1) return -1;
+            else return 1 + max(left, right);
         }
-        // return true;
     }
     bool isBalanced(TreeNode* root) {
-        if (!root)
-            return true;
-        Depth(root);
-        if(count(arr.begin(), arr.end(), 1) + count(arr.begin(), arr.end(), 0) == arr.size()) return true;
-        return false;
+       return (Depth(root) != -1);
     }
 };
