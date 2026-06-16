@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3074-apple-redistribution-into-boxes) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
