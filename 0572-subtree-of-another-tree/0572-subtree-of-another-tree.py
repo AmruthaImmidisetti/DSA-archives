@@ -5,18 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isSame(self, root, subRoot):
-        if root is None and subRoot is None:
-            return True
-        if root is None or subRoot is None:
-            return False
-        if root.val != subRoot.val:
-            return False
-        return  (self.isSame(root.left, subRoot.left) and self.isSame(root.right, subRoot.right))
-        
+    def traverse(self, root, Stri):
+        if root is None:
+            return Stri + ',#'
+            
+        Stri += ',' + str(root.val) 
+        Stri = self.traverse(root.left, Stri)
+        Stri = self.traverse(root.right, Stri)
+        return Stri
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        if root is None and subRoot:
-            return False
-        if self.isSame(root, subRoot):
-            return True
-        return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
+        r = self.traverse(root, "")
+        sr = self.traverse(subRoot, "")
+        return sr in r
+        
