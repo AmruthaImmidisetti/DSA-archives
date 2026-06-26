@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0202-happy-number) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0102-binary-tree-level-order-traversal) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0102-binary-tree-level-order-traversal) |
@@ -683,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
