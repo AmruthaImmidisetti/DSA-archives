@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1389-create-target-array-in-the-given-order) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
