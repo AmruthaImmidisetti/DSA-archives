@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -859,4 +861,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0572-subtree-of-another-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
