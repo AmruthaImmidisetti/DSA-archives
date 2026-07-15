@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0572-subtree-of-another-tree) |
+| [0841-keys-and-rooms](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0841-keys-and-rooms](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
@@ -873,5 +875,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
