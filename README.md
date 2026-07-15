@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0841-keys-and-rooms](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -871,10 +873,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
