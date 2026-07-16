@@ -8,7 +8,6 @@ public:
         for(int i=1;i<nums.size();i++) {
             mx[i] = max(mx[i-1], nums[i]);
         }
-
         for(int i=0;i<mx.size();i++) {
             pre[i] = gcd(mx[i] ,nums[i]);
         }
