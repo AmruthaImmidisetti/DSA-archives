@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0735-asteroid-collision](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0735-asteroid-collision) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
