@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3074-apple-redistribution-into-boxes) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3536-maximum-product-of-two-digits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Segment Tree
 |  |
 | ------- |
