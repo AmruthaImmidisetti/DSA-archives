@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3074-apple-redistribution-into-boxes) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3689-maximum-total-subarray-value-i) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
