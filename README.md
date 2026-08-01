@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0973-k-closest-points-to-origin) |
 | [1175-prime-arrangements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1175-prime-arrangements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0647-palindromic-substrings) |
 | [2063-vowels-of-all-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
 |  |
