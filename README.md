@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
+| [0877-stone-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0973-k-closest-points-to-origin) |
 | [1175-prime-arrangements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1175-prime-arrangements) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0792-binary-search) |
+| [0877-stone-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0912-sort-an-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0877-stone-game) |
 | [2063-vowels-of-all-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
 |  |
