@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
