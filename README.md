@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0344-reverse-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0119-pascals-triangle-ii) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0463-island-perimeter) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -891,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1980-find-unique-binary-string) |
 ## String Matching
