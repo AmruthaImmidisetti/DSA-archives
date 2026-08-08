@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0792-binary-search) |
 | [0877-stone-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0912-sort-an-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0011-container-with-most-water) |
 | [0767-reorganize-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1833-maximum-ice-cream-bars) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1051-height-checker) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0908-middle-of-the-linked-list) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -942,4 +946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
