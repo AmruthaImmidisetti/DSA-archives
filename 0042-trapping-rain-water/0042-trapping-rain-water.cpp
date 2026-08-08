@@ -12,7 +12,6 @@ public:
         for (int i = height.size()-2; i >= 0; i--) {
             rmax[i]  = max(rmax[i+1], height[i]);
         }
-
         for(int i=0;i<height.size();i++){
             ans = ans + min(lmax[i], rmax[i])-height[i];
         }
