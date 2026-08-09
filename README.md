@@ -955,4 +955,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0881-boats-to-save-people) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
