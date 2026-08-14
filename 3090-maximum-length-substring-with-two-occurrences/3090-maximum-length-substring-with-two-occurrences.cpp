@@ -2,17 +2,19 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         int maxLen = INT_MIN;
-        for (int i = 0; i < s.size(); i++) {
-            map<char, int> mp;
-            int len = 0;
-            for (int j = i; j < s.size(); j++) {
-                mp[s[j]]++;
-                if(mp[s[j]] > 2) 
-                    break;
-                len++;
+        map<char, int> mp;
+        int l = 0;
+        for (int r = 0; r < s.size(); r++) {
+            mp[s[r]]++;
+            if (mp[s[r]] > 2) {
+                while (mp[s[r]] > 2) {
+                    mp[s[l]]--;
+                    if (mp[s[l]] == 0)
+                        mp.erase(s[l]);
+                    l++;
+                }
             }
-            mp.clear();
-            maxLen = max(maxLen, len);
+            maxLen = max(maxLen, r - l + 1);
         }
         return maxLen;
     }
