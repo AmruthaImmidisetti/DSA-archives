@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0695-max-area-of-island) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0877-stone-game) |
 | [2063-vowels-of-all-substrings](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2063-vowels-of-all-substrings) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0994-rotting-oranges) |
