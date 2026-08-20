@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3612-process-string-with-special-operations-i) |
