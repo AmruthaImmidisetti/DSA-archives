@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2126-destroying-asteroids) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
