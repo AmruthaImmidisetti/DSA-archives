@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0556-next-greater-element-iii) |
+| [0836-rectangle-overlap](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0973-k-closest-points-to-origin) |
 | [1175-prime-arrangements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1175-prime-arrangements) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
