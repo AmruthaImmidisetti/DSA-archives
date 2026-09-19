@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3904-smallest-stable-index-ii) |
 | [4003-longest-fibonacci-subarray](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4003-longest-fibonacci-subarray) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3843-first-element-with-unique-frequency](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3843-first-element-with-unique-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Greedy
 |  |
 | ------- |
