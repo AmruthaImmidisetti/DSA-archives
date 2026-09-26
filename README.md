@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1980-find-unique-binary-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1980-find-unique-binary-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
