@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0944-delete-columns-to-make-sorted) |
 | [1189-maximum-number-of-balloons](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0735-asteroid-collision) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
@@ -1020,4 +1022,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0146-lru-cache) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
