@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2615-sum-of-distances) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3345-smallest-divisible-digit-product-i) |
