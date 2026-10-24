@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/3001-minimum-moves-to-capture-the-queen) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
