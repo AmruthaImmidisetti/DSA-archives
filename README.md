@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1254-number-of-closed-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1254-number-of-closed-islands) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmruthaImmidisetti/DSA-archives/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
